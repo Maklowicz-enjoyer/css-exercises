@@ -1,0 +1,20 @@
+.odd {
+    font-family: Verdana;
+    background-color: lightpink;
+}
+
+#div {
+    color: blue;
+    font-size: 36px;
+
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+div {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-style: bold;
+}
